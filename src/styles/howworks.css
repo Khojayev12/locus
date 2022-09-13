@@ -1,0 +1,121 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+.working {
+  width: 80%;
+  margin-left: 10%;
+  margin-top: 100px;
+}
+.working-header {
+  width: 100%;
+  text-align: center;
+}
+.working-title {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 70px;
+  line-height: 105px;
+  text-align: center;
+  color: #1c2323;
+}
+.working-subheader {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 45px;
+  text-align: center;
+  color: #404242;
+  margin-top: 20px;
+}
+.video {
+  height: 350px;
+  border: none;
+  border-radius: 10px;
+  width: 100%;
+  margin-top: 70px;
+  display: flex;
+  position: relative;
+}
+.video-pic {
+  text-align: center;
+  width: 60%;
+  display: inline-block;
+}
+.video-photo {
+  height: 350px;
+  width: 100%;
+}
+.video-text {
+  height: 350px;
+  display: inline-block;
+  width: 40%;
+  background: #ccf0e6;
+  text-align: center;
+}
+.video-text-main {
+  width: 60%;
+  margin-left: 20%;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+  margin-top: 70px;
+  color: #486958;
+}
+.video-text-see {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 30px;
+  margin-left: 20%;
+  margin-top: 40px;
+  width: 80%;
+  text-align: left;
+  color: #486958;
+}
+
+.video-see-img {
+  width: 128px;
+  height: 128px;
+  position: absolute;
+  top: 182px;
+  transition: all 0.3s;
+  left: calc(60% - 64px);
+}
+.video-see-img:hover {
+  transform: scale(1.1);
+}
+.under-video {
+  width: 100%;
+  display: flex;
+  margin-top: 150px;
+}
+.under-video-img,
+.under-video-text {
+  width: 50%;
+  text-align: left;
+  display: inline-block;
+}
+.inder-video-pic {
+  width: 80%;
+}
+
+.under-title {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 60px;
+  color: #1c2323;
+}
+.under-subtitle {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 45px;
+  color: #486958;
+  margin-top: 50px;
+}
