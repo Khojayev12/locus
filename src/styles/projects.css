@@ -1,0 +1,94 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+.project {
+  width: 80%;
+  margin-left: 10%;
+}
+.main-title {
+  width: 100%;
+  text-align: center;
+}
+.title {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 70px;
+  line-height: 105px;
+  text-align: center;
+  color: #1c2323;
+}
+.main-sub-title {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 45px;
+  text-align: center;
+  color: #404242;
+  margin-top: 20px;
+}
+.pro-3 {
+  width: 100%;
+  display: flex;
+}
+.pro-one {
+  width: 30%;
+  display: inline-block;
+}
+.pro-main-text {
+  margin-top: 35px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 60px;
+  color: #58a9a5;
+  width: 100%;
+}
+.pro-text {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+  color: #486958;
+  margin-top: 5px;
+}
+.pro-pic {
+  width: 100%;
+  margin-top: 35px;
+}
+.my-hb {
+  width: 100px;
+  margin-top: 50px;
+  border: 3px solid #58a9a5;
+}
+.my-hr {
+  width: 100px;
+  margin-top: 15px;
+  margin-bottom: 60px;
+  border: 3px solid #58a9a5;
+}
+.test {
+  width: 80%;
+  margin-left: 10%;
+}
+.test-signs {
+    width: 100%;
+    text-align: center;
+}
+.test-title {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 70px;
+  line-height: 105px;
+  text-align: center;
+  color: #1c2323;
+  margin-top: 200px;
+}
+.test-img{
+    width: 20%;
+    height: 80px;
+    display: inline-block;
+}
