@@ -74,8 +74,12 @@
   margin-left: 10%;
 }
 .test-signs {
-    width: 100%;
-    text-align: center;
+  width: 100%;
+  text-align: center;
+  display: flex;
+  height: 239px;
+  vertical-align: middle;
+  justify-content: center;
 }
 .test-title {
   font-family: "Poppins";
@@ -87,8 +91,57 @@
   color: #1c2323;
   margin-top: 200px;
 }
-.test-img{
-    width: 20%;
-    height: 80px;
-    display: inline-block;
+.test-img {
+  display: inline-block;
+}
+.big {
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+}
+.big-pic {
+  width: 615px;
+  display: inline-block;
+}
+.big-text {
+  width: calc(100% - 615px);
+  display: inline-block;
+  background-color: #ccf0e6;
+}
+.numbers {
+  display: flex;
+  justify-content: space-around;
+}
+.num-name {
+  display: inline-block;
+  margin-top: 50px;
+  width: 160px;
+  text-align: center;
+}
+.big-num {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 50px;
+  line-height: 65px;
+  color: #58a9a5;
+}
+.name {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 25px;
+  color: #58a9a5;
+}
+.big-title {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 25px;
+  line-height: 38px;
+  margin-top: 100px;
+  color: #486958;
+  width: 80%;
+  margin-left: 10%;
 }

@@ -1,6 +1,7 @@
 import './App.css';
 import Header from './components/header';
 import Test from './components/testimonial';
+import ContactUs from './pages/contactus';
 import Home from './pages/home';
 import HowWorks from './pages/howworks'
 import Projects from './pages/projects';
@@ -13,6 +14,7 @@ function App() {
       <HowWorks />
       <Projects/>
       <Test/>
+      <ContactUs/>
     </div>
   );
 }
